@@ -1,4 +1,4 @@
-# quiz-app
+# INFO
 
 https://marcinrataj.github.io/quiz-app/
 
